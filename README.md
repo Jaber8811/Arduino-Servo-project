@@ -35,6 +35,7 @@
 </div>
 
 ### توصيل و برمجة دائرة الكترونية تحتوي على 6 محركات سيرفو
-![Uploading مقطع فيديو بدون عنوان - تم تصميمه باستخدام Clipchamp.gif…]()
+
+![servo]![servo](https://github.com/Jaber8811/Arduino-Servo-project/assets/173814440/87be1ca3-8dd6-4ab9-9bda-a9059d094718)
 
 
