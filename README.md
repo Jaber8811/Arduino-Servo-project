@@ -37,4 +37,5 @@
 ### توصيل و برمجة دائرة الكترونية تحتوي على 6 محركات سيرفو
 
 
+![Screenshot 2024-07-04 204206](https://github.com/Jaber8811/Arduino-Servo-project/assets/173814440/d47b29d0-fdbf-4c63-9769-67606ab538ea)
 
